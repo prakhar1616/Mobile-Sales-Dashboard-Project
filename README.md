@@ -55,10 +55,10 @@ Discover peak sales days
 
 # 🎯 Purpose
 
-✔️ Analyze sales performance
-✔️ Understand customer preferences
-✔️ Track trends and patterns
-✔️ Support data-driven decisions
+✔️ Analyze sales performance <br />
+✔️ Understand customer preferences <br />
+✔️ Track trends and patterns <br />
+✔️ Support data-driven decisions <br />
 
 # 📸 Dashboard Preview
 
@@ -71,13 +71,3 @@ Discover peak sales days
 # ⭐ Show Your Support
 
 If you like this project, don’t forget to ⭐ star the repo and share your feedback! 😊
-
-
-
-
-
-
-
-
-
-UPI | Debit Card | Credit Card | Cash
